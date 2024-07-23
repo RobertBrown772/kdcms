@@ -1,0 +1,48 @@
+{
+  "siteStructure": {
+    "articles": {
+      "label": "Articles",
+      "items": [
+        {
+          "title": "Article One",
+          "url": "/blog/article-one.json"
+        },
+        {
+          "title": "Article Two",
+          "url": "/blog/article-two.json"
+        }
+      ]
+    },
+    "services": {
+      "label": "Services",
+      "items": [
+        {
+          "title": "Graphic Design",
+          "url": "/services/graphic-design.json"
+        },
+        {
+          "title": "Web Design",
+          "url": "/services/web-design.json"
+        }
+      ]
+    },
+    "pages": {
+      "label": "Pages",
+      "items": [
+        {
+          "title": "Home",
+          "url": "/pages/home.json"
+        }
+      ]
+    },
+    "core": {
+      "label": "Core",
+      "items": [
+        {
+          "title": "Info",
+          "url": "/core/info.json"
+        }
+      ]
+    }
+  }
+}
