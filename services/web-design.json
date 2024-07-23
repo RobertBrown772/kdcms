@@ -1,0 +1,15 @@
+{
+  "service": {
+    "name": "Web Design",
+    "description": "We offer professional web design services to help you create visually stunning and user-friendly websites for your business.",
+    "features": [
+      "Custom logo design",
+      "Brand identity development",
+      "Print design (brochures, flyers, business cards)",
+      "Web and mobile app design",
+      "Social media graphics",
+      "Packaging design",
+      "Illustrations and infographics"
+    ]
+  }
+}

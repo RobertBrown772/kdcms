@@ -1,0 +1,15 @@
+{
+  "service": {
+    "name": "Graphic Design",
+    "description": "We offer professional graphic design services to help you create visually stunning and impactful designs for your business.",
+    "features": [
+      "Custom logo design",
+      "Brand identity development",
+      "Print design (brochures, flyers, business cards)",
+      "Web and mobile app design",
+      "Social media graphics",
+      "Packaging design",
+      "Illustrations and infographics"
+    ]
+  }
+}
