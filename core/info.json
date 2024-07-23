@@ -1,0 +1,12 @@
+{
+  "siteName": "My Website",
+  "siteDescription": "Welcome to my website!",
+  "siteURL": "https://www.example.com",
+  "siteAuthor": "John Doe",
+  "siteEmail": "john.doe@example.com",
+  "siteSocialMedia": {
+    "twitter": "https://twitter.com/example",
+    "facebook": "https://www.facebook.com/example",
+    "instagram": "https://www.instagram.com/example"
+  }
+}
