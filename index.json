@@ -10,6 +10,10 @@
         {
           "title": "Article Two",
           "url": "/blog/article-two.json"
+        },
+        {
+          "title": "Article Three",
+          "url": "/blog/article-three.json"
         }
       ]
     },
